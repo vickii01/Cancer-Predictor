@@ -234,10 +234,3 @@ Then add a title and description to your pull request that explains your preciou
 ![Prediction Page](static/images/predict.png)
 
 
-
-## Awesome contributors :star_struck:
-<a href="https://github.com/srimani-programmer/Breast-Cancer-Predictor/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=srimani-programmer/Breast-Cancer-Predictor" />
-</a>
-
-Made with [contributors-img](https://contributors-img.web.app).
